@@ -1,6 +1,10 @@
 <h1 align="center" id="title">Single/Multiple Object Tracking using OpenCV</h1>
 
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2Jflr3ZyIi_wyGkbAMxNf-8dkrbneyZcR-HrUNzLJcCY3Jf9rl7wLyFs8RySjEHljWE&amp;usqp=CAU" alt="project-image"></p>
+![Image Alt Text](https://github.com/dineshrx/Object-Tracking-using-OpenCV/blob/main/Output.JPG?raw=true) <br>
+(https://youtu.be/r0UrvJnh_o4)
+
+
+
 
 ## INTRDUCTION
 
